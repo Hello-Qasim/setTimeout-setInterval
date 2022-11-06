@@ -10,7 +10,7 @@ setTimeout(function () {
   console.log('Hey this is 2nd month of learnig Javascript');
 }, 1000);
 
-// This callback function is the first arguement of setTimeout function and we can call this function in the future by adding 2nd arguement of particular or desireable time .So in our case above the console will be log after every 1sec as we know that 1sec=1000ms .We can give this time whatever we want but it will be always in the form of milliseconds.It means we have schedule this function to be called for 1sec .
+// This callback function is the first arguement of setTimeout function, and we can call this function in the future by adding 2nd arguement of particular or desireable time .So in our case above the console will be log after every 1sec as we know that 1sec=1000ms .We can give this time whatever we want but it will be always in the form of milliseconds.It means we have schedule this function to be called for 1sec .
 
 setTimeout(function () {
   console.log('Hey Javascript !');
